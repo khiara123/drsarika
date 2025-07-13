@@ -14,24 +14,21 @@ const Quotes = () => {
               data-dots="true"
             >
               <blockquote>
-                “for me this was a wonderful experience. i must say that i am
-                really impressed.”
+                “Dr Sarika is not only a great psychologist but a nice human being too, she is really very dedicated to her clients, very humble and supportive .I strongly recommend her”
                 <div className="item-meta">
-                  <h5>Myrtle Murray</h5>
+                  <h5>Sukeshni Agrawal</h5>
                 </div>
               </blockquote>
               <blockquote>
-                “for me this was a wonderful experience. i must say that i am
-                really impressed.”
+                “I have seen many doctors in my life but Dr Sarika your knowledge and skills never cease to amaze the people around you. We all are so thankful to have you as a doctor in our lives.”
                 <div className="item-meta">
-                  <h5>Myrtle Murray</h5>
+                  <h5>Pramod Kumar</h5>
                 </div>
               </blockquote>
               <blockquote>
-                “for me this was a wonderful experience. i must say that i am
-                really impressed.”
+                “Dr. Sarika is extremely talented clinical psychologist. The doctor and the entire team of CIMS is doing a great job in our district.”
                 <div className="item-meta">
-                  <h5>Myrtle Murray</h5>
+                  <h5>Jhumi Kulshreshtha</h5>
                 </div>
               </blockquote>
             </div>

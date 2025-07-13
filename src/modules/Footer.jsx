@@ -9,7 +9,7 @@ const Footer = () => {
           <div className="col-sm-4 col-sm-push-4 text-center">
             <Link to={"#"} className="logo big text-shadow">
               Psychologist
-              <span className="small-text">Premium HTML Template</span>
+              <span className="small-text">Dr Sarika Gautam</span>
             </Link>
           </div>
 
@@ -17,13 +17,11 @@ const Footer = () => {
             <div className="widget widget_nav_menu greylinks">
               <ul className="menu divided_content wide_divider">
                 <li className="">
-                  <Link to={"#"}>Home</Link>
+                  <Link to={"/"}>Home</Link>
                 </li>
+                
                 <li className="">
-                  <Link to={"#"}>About</Link>
-                </li>
-                <li className="">
-                  <Link to={"#"}>Services</Link>
+                  <Link to={"/services"}>Services</Link>
                 </li>
               </ul>
             </div>
@@ -33,10 +31,10 @@ const Footer = () => {
             <div className="widget widget_nav_menu greylinks">
               <ul className="menu divided_content wide_divider">
                 <li className="">
-                  <Link to={"#"}>Gallery</Link>
+                  <Link to={"/gallary"}>Gallery</Link>
                 </li>
                 <li className="">
-                  <Link to={"#"}>Blog</Link>
+                  <Link to={"/blogs"}>Blog</Link>
                 </li>
                 <li className="">
                   <Link to={"#"}>Contacts</Link>

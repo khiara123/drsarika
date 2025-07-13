@@ -13,10 +13,10 @@ const Slider = () => {
                   <div class="slide_description_wrapper">
                     <div class="slide_description">
                       <div class="intro-layer" data-animation="fadeInRight">
-                        <h3>Rita Solomou</h3>
+                        <h3>Move On with</h3>
                       </div>
                       <div class="intro-layer" data-animation="fadeInLeft">
-                        <p class="small-text grey">Premium HTML Template</p>
+                        <p class="small-text grey"> Dr Sarika Gautam</p>
                       </div>
                     </div>
                   </div>
@@ -33,10 +33,10 @@ const Slider = () => {
                   <div class="slide_description_wrapper">
                     <div class="slide_description">
                       <div class="intro-layer" data-animation="fadeInRight">
-                        <h3>Rita Solomou</h3>
+                        <h3>Move On With</h3>
                       </div>
                       <div class="intro-layer" data-animation="fadeInLeft">
-                        <p class="small-text grey">Premium HTML Template</p>
+                        <p class="small-text grey">Dr Sarka Gautam</p>
                       </div>
                     </div>
                   </div>

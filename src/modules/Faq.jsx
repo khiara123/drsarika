@@ -14,9 +14,7 @@ const Faq = () => {
               Frequently Asked Questions
             </h2>
             <p>
-              Exercitation cupim ex, short ribs cow in ullamco corned beef
-              veniam kevin. Eu frankfurter ham hock ball tip reprehenderit
-              adipisicing ipsum jerky tenderloin aliquip.
+              We understand that reaching out for mental health support is a big step. Below are some common questions we receive, along with clear answers to help guide you.
             </p>
           </div>
         </div>
@@ -32,16 +30,13 @@ const Faq = () => {
                       href="#collapse1"
                       className="collapsed"
                     >
-                      What can I expect in the first session when I see a
-                      psychologist?
+                     What is mental illness?
                     </a>
                   </h4>
                 </div>
                 <div id="collapse1" className="panel-collapse collapse">
                   <div className="panel-body">
-                    Exercitation cupim ex, short ribs cow in ullamco corned beef
-                    veniam kevin. Eu frankfurter ham hock ball tip reprehenderit
-                    adipisicing ipsum jerky tenderloin.
+                   A.	It refers to a wide range of mental health disorders that affect a person’s thoughts, feelings, and behaviors.
                   </div>
                 </div>
               </div>
@@ -54,15 +49,13 @@ const Faq = () => {
                       href="#collapse2"
                       className="collapsed"
                     >
-                      What are the sings of being abused by your partner?
+                    What causes mental illness?
                     </a>
                   </h4>
                 </div>
                 <div id="collapse2" className="panel-collapse collapse">
                   <div className="panel-body">
-                    Exercitation cupim ex, short ribs cow in ullamco corned beef
-                    veniam kevin. Eu frankfurter ham hock ball tip reprehenderit
-                    adipisicing ipsum jerky tenderloin.
+                   It can be caused by a combination of genetic, environmental, and psychological factors.
                   </div>
                 </div>
               </div>
@@ -75,15 +68,13 @@ const Faq = () => {
                       href="#collapse3"
                       className="collapsed"
                     >
-                      What specific qualities are you looking for?
+                      What are the symptoms of mental illness?
                     </a>
                   </h4>
                 </div>
                 <div id="collapse3" className="panel-collapse collapse">
                   <div className="panel-body">
-                    Exercitation cupim ex, short ribs cow in ullamco corned beef
-                    veniam kevin. Eu frankfurter ham hock ball tip reprehenderit
-                    adipisicing ipsum jerky tenderloin.
+                   A.	It is depended on the type of disorder, but may include changes in mood, energy, or behavior.
                   </div>
                 </div>
               </div>
@@ -97,15 +88,13 @@ const Faq = () => {
                       href="#collapse4"
                       className="collapsed"
                     >
-                      How much money do psychologists make?
+                     What is depression?
                     </a>
                   </h4>
                 </div>
                 <div id="collapse4" className="panel-collapse collapse">
                   <div className="panel-body">
-                    Exercitation cupim ex, short ribs cow in ullamco corned beef
-                    veniam kevin. Eu frankfurter ham hock ball tip reprehenderit
-                    adipisicing ipsum jerky tenderloin.
+                    A.	Feelings of sadness, hopelessness, and a lack of interest in day-to-day activities..
                   </div>
                 </div>
               </div>
@@ -115,33 +104,25 @@ const Faq = () => {
             <div className="tab-content padding_0">
               <div className="tab-pane fade in active" id="tab1">
                 <div className="embed-responsive embed-responsive-16by9">
-                  <a
-                    href="//player.vimeo.com/video/1084537"
-                    className="embed-placeholder"
-                  >
+                  
                     <img src="./images/video_tab1.jpg" alt="" />
-                  </a>
+                  
                 </div>
               </div>
 
               <div className="tab-pane fade" id="tab2">
                 <div className="embed-responsive embed-responsive-16by9">
-                  <a
-                    href="//player.vimeo.com/video/1084537"
-                    className="embed-placeholder"
-                  >
+                
                     <img src="./images/video_tab2.jpg" alt="" />
-                  </a>
+                 
                 </div>
               </div>
 
               <div className="tab-pane fade" id="tab3">
                 <div className="embed-responsive embed-responsive-16by9">
-                  <Link to={"#"}
-                    className="embed-placeholder"
-                  >
+                  
                     <img src="./images/video_tab3.jpg" alt="" />
-                  </Link>
+                  
                 </div>
               </div>
             </div>

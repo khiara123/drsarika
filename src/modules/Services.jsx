@@ -11,9 +11,7 @@ const Services = () => {
           <div class="col-sm-12 text-center">
             <h2 class="section_header with_icon">What We Can Offer</h2>
             <p>
-              Porchetta dolor magna ipsum. Irure beef ribs chicken dolore,
-              laboris filet mignon ribeye bacon swine pork loin commodo pork
-              chop corned beef hamburger.
+             Explore a wide range of expert mental health services tailored to support your well-being and personal growth. Our approach is compassionate, evidence-based, and focused on empowering you to live a balanced, fulfilling life.
             </p>
           </div>
         </div>
@@ -24,11 +22,10 @@ const Services = () => {
                 <img src="./images/service-icons/relationship.png" alt="" />
               </div>
               <h4>
-                <a href="service-single.html">Relationship</a>
+                <a href="service-single.html">Depression</a>
               </h4>
               <p>
-                A therapy that helps establish a more profound ground for
-                healthy relationship.
+                We offer personalized therapy that helps uncover the root causes of depression and builds a strong foundation for emotional resilience and meaningful relationships.
               </p>
             </div>
           </div>
@@ -38,11 +35,10 @@ const Services = () => {
                 <img src="./images/service-icons/mental.png" alt="" />
               </div>
               <h4>
-                <a href="service-single.html">Mental health</a>
+                <a href="service-single.html">Bipolar Disorder</a>
               </h4>
               <p>
-                Improve your focus, relieve stress and anxiety, and develop
-                creativity.
+                Our care plans aim to enhance focus, stabilize mood swings, and reduce anxiety, helping you unlock creativity and lead a more structured life.
               </p>
             </div>
           </div>
@@ -52,11 +48,10 @@ const Services = () => {
                 <img src="./images/service-icons/feelings.png" alt="" />
               </div>
               <h4>
-                <a href="service-single.html">Feelings</a>
+                <a href="service-single.html">Anxiety</a>
               </h4>
               <p>
-                Achieve a better level of your well-being and the ability to
-                manage feelings.
+                Overcome daily struggles with anxiety through proven strategies that improve self-awareness, emotional control, and overall peace of mind.
               </p>
             </div>
           </div>
@@ -66,11 +61,10 @@ const Services = () => {
                 <img src="./images/service-icons/conflicting.png" alt="" />
               </div>
               <h4>
-                <a href="service-single.html">Conflicting</a>
+                <a href="service-single.html">Panic Disorders</a>
               </h4>
               <p>
-                Invaluable insight into the knowledge of reducing conflict in
-                relationship.
+                We provide insights and therapeutic tools to help you understand, manage, and reduce panic attacks—restoring your confidence and sense of control.
               </p>
             </div>
           </div>
@@ -80,11 +74,10 @@ const Services = () => {
                 <img src="./images/service-icons/meditation.png" alt="" />
               </div>
               <h4>
-                <a href="service-single.html">Meditation</a>
+                <a href="service-single.html">ASD (Autism) </a>
               </h4>
               <p>
-                Learn how to deal with difficult emotions and feelings by using
-                healthy strategies.
+                Specialized support for individuals on the autism spectrum that promotes communication, emotional regulation, and social skills development.
               </p>
             </div>
           </div>
@@ -94,11 +87,10 @@ const Services = () => {
                 <img src="./images/service-icons/depression.png" alt="" />
               </div>
               <h4>
-                <a href="service-single.html">Depression</a>
+                <a href="service-single.html">OCD</a>
               </h4>
               <p>
-                If your depression is keeping you from living your life don’t
-                hesitate to seek help.
+                We help individuals manage intrusive thoughts and compulsive behaviors through structured, cognitive-behavioral interventions tailored to their unique needs.
               </p>
             </div>
           </div>
@@ -108,11 +100,10 @@ const Services = () => {
                 <img src="./images/service-icons/mind.png" alt="" />
               </div>
               <h4>
-                <a href="service-single.html">Mind Games</a>
+                <a href="service-single.html">Substance Use Disorders </a>
               </h4>
               <p>
-                It is crucial to understand how to prevent others from playing
-                such games with you.
+               Our compassionate addiction recovery services focus on healing the root causes of substance use, building healthy coping mechanisms, and promoting long-term sobriety.
               </p>
             </div>
           </div>
@@ -122,11 +113,10 @@ const Services = () => {
                 <img src="./images/service-icons/relaxation.png" alt="" />
               </div>
               <h4>
-                <a href="service-single.html">Relaxation</a>
+                <a href="service-single.html">Relation and Family Conflicts</a>
               </h4>
               <p>
-                Focus your attention on calmness and increase your personal
-                awareness.
+               Strengthen your relationships with therapy that fosters healthy communication, conflict resolution, and emotional connection between partners and family members.
               </p>
             </div>
           </div>

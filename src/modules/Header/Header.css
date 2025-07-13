@@ -1,0 +1,32 @@
+@media (max-width: 768px) {
+    .mainmenu_wrapper {
+      display: none;
+    }
+  
+    .mainmenu_wrapper.menu-open {
+      display: block;
+    }
+  }
+  .social-icons-container {
+    display: flex;
+    justify-content: flex-end;
+    padding: 10px 20px;
+  }
+  
+  .social-icons {
+    display: flex;
+    gap: 16px;
+    align-items: center;
+  }
+  
+  .social-icons a {
+    font-size: 20px;
+    color: #555;
+    transition: color 0.3s;
+    text-decoration: none;
+  }
+  
+  .social-icons a:hover {
+    color: #1e90ff; /* or your brand color */
+  }
+  

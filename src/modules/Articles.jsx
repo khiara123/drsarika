@@ -9,9 +9,7 @@ const Articles = () => {
           <div className="col-sm-12 text-center">
             <h2 className="section_header with_icon">Recent Articles</h2>
             <p>
-              Exercitation cupim ex, short ribs cow in ullamco corned beef
-              veniam kevin. Eu frankfurter ham hock ball tip reprehenderit
-              adipisicing ipsum jerky tenderloin aliquip.
+              Stay informed, inspired, and empowered with our latest insights in mental health and emotional well-being. Each article is thoughtfully written by professionals to help you better understand yourself and support those around you.
             </p>
           </div>
         </div>
@@ -30,14 +28,14 @@ const Articles = () => {
                         className="entry-date"
                         datetime="2017-03-13T08:50:40+00:00"
                       >
-                        March 13, 2017
+                        Jun, 2025
                       </time>
                     </Link>
                   </div>
 
                   <h4 className="entry-title">
                     <Link to={"#"} rel="bookmark">
-                    How to handle anger
+                    Depression is not a joke
                     </Link>
                   </h4>
 
@@ -45,11 +43,10 @@ const Articles = () => {
                 </header>
 
                 <p className="bottommargin_40 fontsize_18">
-                  Exercitation cupim ex, short ribs cow in ullamco corned beef
-                  veniam kevin eu frankfurter...
+                  Depression is a common mental health disorder that affects millions of people worldwide.It’s characterized by persistent feelings of sadness
                 </p>
 
-                <Link to={"#"} className="theme_button color1">
+                <Link to={"/blogs/DEPRESSION_IS_NOT_A_JOKE"} className="theme_button color1">
                   Read article
                 </Link>
               </div>
@@ -69,14 +66,14 @@ const Articles = () => {
                         className="entry-date"
                         datetime="2017-03-13T08:50:40+00:00"
                       >
-                        March 13, 2017
+                        April 27, 2025
                       </time>
                     </Link>
                   </div>
 
                   <h4 className="entry-title">
                     <Link to={"#"} rel="bookmark">
-                      How to avoid hostile attitude
+                      Know The Austim Spctrum Disorder
                     </Link>
                   </h4>
 
@@ -84,11 +81,10 @@ const Articles = () => {
                 </header>
 
                 <p className="bottommargin_40 fontsize_18">
-                  Exercitation cupim ex, short ribs cow in ullamco corned beef
-                  veniam kevin eu frankfurter...
+                  Autism Spectrum Disorder (ASD) is a neurological disorder that affects communication, social interaction, and behavior.
                 </p>
 
-                <Link to={"#"} className="theme_button color1">
+                <Link to={"/blogs/KNOW_THE_AUTISM_SPECTRUM_DISORDER"} className="theme_button color1">
                   Read article
                 </Link>
               </div>
@@ -108,14 +104,14 @@ const Articles = () => {
                         className="entry-date"
                         datetime="2017-03-13T08:50:40+00:00"
                       >
-                        March 13, 2017
+                        March 13, 2025
                       </time>
                     </Link>
                   </div>
 
                   <h4 className="entry-title">
                     <Link to={"#"} rel="bookmark">
-                      How to avoid hostile attitude
+                      Understanding Teenager’S Behaviour
                     </Link>
                   </h4>
 
@@ -123,11 +119,10 @@ const Articles = () => {
                 </header>
 
                 <p className="bottommargin_40 fontsize_18">
-                  Exercitation cupim ex, short ribs cow in ullamco corned beef
-                  veniam kevin eu frankfurter...
+                  The teenage years can be a tumultuous time, marked by significant physical, emotional, and social changes.
                 </p>
 
-                <Link to={"#"} className="theme_button color1">
+                <Link to={"/blogs/UNDERSTANDING_TEENAGER’S_BEHAVIOURAL_ISSUES"} className="theme_button color1">
                   Read article
                 </Link>
               </div>

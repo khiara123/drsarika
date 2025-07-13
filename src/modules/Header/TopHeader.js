@@ -1,20 +1,21 @@
 import React from "react";
-import Login from "../Login";
 import { Link } from "react-router-dom";
 import { FaAddressCard } from "react-icons/fa";
 import { TfiEmail } from "react-icons/tfi";
+import { useLocation } from "react-router-dom";
 
 const TopHeader = () => {
+  const location = useLocation();
+  // Check if current path is home
+  const isHome = location.pathname === "/";
   return (
     <section className="page_topline cs table_section table_section_md columns_padding_0">
       <div className="container-fluid">
         <div className="row">
-          <Login />
-
           <div className="col-md-6 text-center divided_content">
             <div>
               <div className="media small-teaser">
-                <div className="media-body">0 (800) 337 25 25</div>
+                <div className="media-body">+91-8218862470</div>
               </div>
             </div>
 
@@ -24,7 +25,7 @@ const TopHeader = () => {
                   <FaAddressCard />
                 </div>
                 <div className="media-body">
-                  350 Leverton Cove Road Springfield, MA
+                 City Institue of Mecical sciences (CIMS), Mathura(UP)
                 </div>
               </div>
             </div>
@@ -40,7 +41,7 @@ const TopHeader = () => {
                     className="__cf_email__"
                     data-cfemail="c1b2b4b1b1aeb3b581b1b2b8a2a9aeadaea6a8b2b5efa2aeac"
                   >
-                    [email&#160;protected]
+                    moveonwithsarika@gmail.com
                   </Link>
                 </div>
               </div>
@@ -57,6 +58,9 @@ const TopHeader = () => {
                 }
               }}
               className="theme_button color1 margin_0"
+              style={{
+                visibility: isHome ? "visible" : "hidden",
+              }}
             >
               Make an appointment
             </Link>

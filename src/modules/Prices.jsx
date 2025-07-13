@@ -18,23 +18,19 @@ const Prices = () => {
                   Help
                 </div>
                 <div className="plan-price with_icon">
-                  $99
+                  ₹999
                   <p className="small-text">per hour</p>
                 </div>
               </div>
               <div className="price-content ls with_shadow">
                 <ul className="features-list">
-                  <li>Depression Therapy</li>
+                  <li>Consultation</li>
                   <li>Stress Management</li>
-                  <li>Anxiety Treatment</li>
+                  <li>Anxiety and Trauma</li>
                   <li>Individual Coaching</li>
-                  <li>Post-Divorce Recovery</li>
+                  <li>Broken Relationship</li>
                 </ul>
-                <div className="call-to-action">
-                  <Link to={"#"} className="theme_button color1">
-                    Book now
-                  </Link>
-                </div>
+                
               </div>
             </div>
           </div>
@@ -42,27 +38,50 @@ const Prices = () => {
             <div className="price-table price-hover">
               <div className="price-media">
                 <div className="plan-name">
-                  Couples
+                  Relation
                   <br />
-                  Therapy
+                  Goal
                 </div>
                 <div className="plan-price with_icon">
-                  $149
+                  ₹3999
                   <p className="small-text">per hour</p>
                 </div>
               </div>
               <div className="price-content ls with_shadow">
                 <ul className="features-list">
-                  <li>Depression Therapy</li>
-                  <li>Stress Management</li>
-                  <li>Anxiety Treatment</li>
+                  <li>Relationship Therapy</li>
+                  <li>Couples Coaching</li>
+                  <li>Intimacy Counseling</li>
+                  <li>Partner Therapy</li>
+                  <li>Bonding Support</li>
+                </ul>
+                
+              </div>
+            </div>
+          </div>
+          
+          <div className="col-md-3 col-sm-6">
+            <div className="price-table price-hover">
+              <div className="price-media">
+                <div className="plan-name">
+                  Family
+                  <br />
+                  Therapy
+                </div>
+                <div className="plan-price with_icon">
+                  ₹4999
+                  <p className="small-text">per hour</p>
+                </div>
+              </div>
+              <div className="price-content ls with_shadow">
+                <ul className="features-list">
+                  <li>Conflict Resolution</li>
+                  <li>Multi-Generational Healing</li>
+                  <li>Navigating Transitions</li>
+                  <li>Individual Coaching</li>
                   <li>Post-Divorce Recovery</li>
                 </ul>
-                <div className="call-to-action">
-                  <Link to={"#"} className="theme_button color1">
-                    Book now
-                  </Link>
-                </div>
+               
               </div>
             </div>
           </div>
@@ -75,53 +94,23 @@ const Prices = () => {
                   Therapy
                 </div>
                 <div className="plan-price with_icon">
-                  $49
+                  ₹5999
                   <p className="small-text">per hour</p>
                 </div>
               </div>
               <div className="price-content ls with_shadow">
                 <ul className="features-list">
-                  <li>Depression Therapy</li>
-                  <li>Stress Management</li>
-                  <li>Anxiety Treatment</li>
+                  <li>Emotional Support</li> 
+                  <li>Improved Communication</li>
+                  <li>Shared Perspectives</li>
+                  <li>Skill Building</li>
+                  <li>Social Connection</li>
                 </ul>
-                <div className="call-to-action">
-                  <Link to={"#"} className="theme_button color1">
-                    Book now
-                  </Link>
-                </div>
+                
               </div>
             </div>
           </div>
-          <div className="col-md-3 col-sm-6">
-            <div className="price-table price-hover">
-              <div className="price-media">
-                <div className="plan-name">
-                  Personal
-                  <br />
-                  Help
-                </div>
-                <div className="plan-price with_icon">
-                  $99
-                  <p className="small-text">per hour</p>
-                </div>
-              </div>
-              <div className="price-content ls with_shadow">
-                <ul className="features-list">
-                  <li>Depression Therapy</li>
-                  <li>Stress Management</li>
-                  <li>Anxiety Treatment</li>
-                  <li>Individual Coaching</li>
-                  <li>Post-Divorce Recovery</li>
-                </ul>
-                <div className="call-to-action">
-                  <Link to={"#"} className="theme_button color1">
-                    Book now
-                  </Link>
-                </div>
-              </div>
-            </div>
-          </div>
+         
         </div>
       </div>
     </section>

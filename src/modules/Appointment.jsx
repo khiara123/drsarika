@@ -13,9 +13,7 @@ const Appointment = () => {
               Make an Appointment
             </h2>
             <div className="fontsize_16">
-              Exercitation cupim ex, short ribs cow in ullamco corned beef
-              veniam kevin. Eu frankfurter ham hock ball tip reprehenderit
-              adipisicing ipsum
+             Book a confidential session with our experienced professionals and begin your journey toward a healthier, more balanced life.
             </div>
 
             <form
