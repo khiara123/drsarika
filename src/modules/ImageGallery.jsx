@@ -3,107 +3,107 @@ import "./Gallery.css"; // You can also use styled-components or inline styles
 
 const images = [
   {
-    src: "/images/1.jpg",
+    src: "/images/1.JPG",
     alt: "Image 1",
     caption: "Mental Health",
   },
   {
-    src: "/images/2.jpg",
+    src: "/images/2.JPG",
     alt: "Image 2",
     caption: "Behavioral Science",
   },
   {
-    src: "/images/3.jpg",
+    src: "/images/3.JPG",
     alt: "Image 3",
     caption: "Child & Adolescent Psychology",
   },
     {
-    src: "/images/4.jpg",
+    src: "/images/4.JPG",
     alt: "Image 4",
     caption: "Child & Adolescent Psychology",
   },
     {
-    src: "/images/5.jpg",
+    src: "/images/5.JPG",
     alt: "Image 5",
     caption: "Child & Adolescent Psychology",
   },
     {
-    src: "/images/6.jpg",
+    src: "/images/6.JPG",
     alt: "Image 6",
     caption: "Child & Adolescent Psychology",
   },
   {
-    src: "/images/7.jpg",
+    src: "/images/7.JPG",
     alt: "Image 7",
     caption: "Child & Adolescent Psychology",
   },
   {
-    src: "/images/8.jpg",
+    src: "/images/8.JPG",
     alt: "Image 8",
     caption: "Child & Adolescent Psychology",
   },
   {
-    src: "/images/9.jpg",
+    src: "/images/9.JPG",
     alt: "Image 9",
     caption: "Child & Adolescent Psychology",
   },
   {
-    src: "/images/10.jpg",
+    src: "/images/10.JPG",
     alt: "Image 10",
     caption: "Child & Adolescent Psychology",
   },
   {
-    src: "/images/11.jpg",
+    src: "/images/11.JPG",
     alt: "Image 11",
     caption: "Child & Adolescent Psychology",
   },
   {
-    src: "/images/12.jpg",
+    src: "/images/12.JPG",
     alt: "Image 12",
     caption: "Child & Adolescent Psychology",
   },
   {
-    src: "/images/13.jpg",
+    src: "/images/13.JPG",
     alt: "Image 13",
     caption: "Child & Adolescent Psychology",
   },
   {
-    src: "/images/14.jpg",
+    src: "/images/14.JPG",
     alt: "Image 14",
     caption: "Child & Adolescent Psychology",
   },
   {
-    src: "/images/15.jpg",
+    src: "/images/15.JPG",
     alt: "Image 15",
     caption: "Child & Adolescent Psychology",
   },
   {
-    src: "/images/16.jpg",
+    src: "/images/16.JPG",
     alt: "Image 16",
     caption: "Child & Adolescent Psychology",
   },
   {
-    src: "/images/17.jpg",
+    src: "/images/17.JPG",
     alt: "Image 17",
     caption: "Child & Adolescent Psychology",
   },
   {
-    src: "/images/18.jpg",
+    src: "/images/18.JPG",
     alt: "Image 18",
     caption: "Child & Adolescent Psychology",
   },
   {
-    src: "/images/19.jpg",
+    src: "/images/19.JPG",
     alt: "Image 19",
     caption: "Child & Adolescent Psychology",
   },
   {
-    src: "/images/20.jpg",
+    src: "/images/20.JPG",
     alt: "Image 20",
     caption: "Child & Adolescent Psychology",
   },
   {
-    src: "/images/21.jpg",
+    src: "/images/21.JPG",
     alt: "Image 21",
     caption: "Child & Adolescent Psychology",
   }
